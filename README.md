@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ricardob2003
 - 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning java and being introduced to Ruby on Rails
-- 💞️ I’m looking to collaborate on any type of begginer projects that would develop fundamentals and help me learn different new methods to immplement solutions
+- 🌱 Familiar with Ruby on Rails framework, Java, Ruby and Python programming languages
+- 💞️ I’m looking to collaborate on any type of intern project and/or engineering teams that would develop fundamentals and help me learn different new methods for immplementing solutions
 - 📫 How to reach me: ricardodbarahona@gmail.com 
 
 <!---
